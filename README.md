@@ -3,8 +3,8 @@
 
 This is a gallery of demo analyses performed on public data of [ATLAS at LHC] (www.atlas.cern) experiment.
 
-Many analyses are ROOTbooks. For more information about the ROOT framework,
-visit http://root.cern.ch or [try it on Binder](http://root.cern.ch/notebooks/rootbinder)
+Many analyses are ROOTbooks. For more information about the ROOT framework, visit http://root.cern.ch
 
-Analyses created by the ATLAS Outreah Open Data&Tool group and binderised by Danilo Piparo, danilo.piparo@cern.ch, and Enric Tejedor, enric.tejedor.saavedra@cern.ch and Arturo Sáncchez, arturos@cern.ch.
+Analyses created by the ATLAS Outreah Open Data&Tool group.
+"Binderised" by Danilo Piparo, danilo.piparo@cern.ch, and Enric Tejedor, enric.tejedor.saavedra@cern.ch and Arturo Sánchez, arturos@cern.ch.
 
